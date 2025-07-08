@@ -41,12 +41,17 @@ A real-time full-stack chat application with support for messaging, image sharin
 Setup Backend
 
 cd Backend
+
 npm install
+
 npm run dev
+
 
 
 Setup Frontend
 
 cd Frontend
+
 npm install
+
 npm run dev
